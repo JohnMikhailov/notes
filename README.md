@@ -1,4 +1,4 @@
-# notes
+# Notes app
 simple Java FX app for notes
 
 # Usage
@@ -10,8 +10,8 @@ Choose any note and press any key to call pop-up rename-note window, type new no
 
 # Main screen
 
-![mainscreen](https://github.com/JohnMikhailov/low_poly_genetic/raw/master/example_main_screen.png)
+![mainscreen](https://github.com/JohnMikhailov/notes/raw/master/example_main_screen.png)
 
 # Note name changing
 
-![notenamechanging](https://github.com/JohnMikhailov/low_poly_genetic/raw/master/example_change_note_name.png)
+![notenamechanging](https://github.com/JohnMikhailov/notes/raw/master/example_change_note_name.png)
