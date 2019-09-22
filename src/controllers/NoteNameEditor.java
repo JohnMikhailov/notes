@@ -1,6 +1,6 @@
 package controllers;
 
-import database.DBModule;
+import dbmethods.DBModule;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;

@@ -1,4 +1,4 @@
-package database;
+package dbmethods;
 
 import java.sql.*;
 import java.util.HashMap;
